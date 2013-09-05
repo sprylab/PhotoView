@@ -4,7 +4,7 @@
 	<groupId>com.github.chrisbanes.photoview</groupId>
 	<artifactId>parent</artifactId>
 	<packaging>pom</packaging>
-	<version>1.2.2-SNAPSHOT</version>
+	<version>1.2.2-sprylab</version>
 	<name>PhotoView Project</name>
 	<description>A simple ImageView that support zooming, both by Multi-touch gestures and double-tap.</description>
 	<url>https://github.com/chrisbanes/PhotoView</url>
@@ -44,7 +44,7 @@
 		<java.version>1.6</java.version>
 		<android.version>4.1.1.4</android.version>
 		<android.platform>16</android.platform>
-		<android-maven.version>3.2.0</android-maven.version>
+		<android-maven.version>3.6.1</android-maven.version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
